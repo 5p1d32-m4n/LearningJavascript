@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/5p1d32-m4n/LearningJavascript/issues"
   },
-  "homepage": "https://github.com/5p1d32-m4n/LearningJavascript#readme"
+  "homepage": "https://github.com/5p1d32-m4n/LearningJavascript#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0"
+  }
 }
